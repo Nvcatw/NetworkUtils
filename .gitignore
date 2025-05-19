@@ -73,3 +73,12 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/My project/.vsconfig
+/My project/Assembly-CSharp.csproj
+/My project/Assembly-CSharp-Editor.csproj
+/My project/My project.sln
+/My project/Library
+/My project/Logs
+/My project/obj
+/My project/Temp
+/My project/UserSettings
